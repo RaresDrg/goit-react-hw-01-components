@@ -1,0 +1,13 @@
+.friend-list {
+  background-color: #fff;
+  border-radius: 5px;
+  overflow: hidden;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  padding: 10px 2px;
+  list-style: none;
+  width: fit-content;
+  margin: 0 auto 50px auto;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
